@@ -17,15 +17,10 @@ Advantages of Portfolio:
 * Portfolios are also helpful for independent contractors, consultants, or business owners who need to provide work samples to potential clients.
 
 ### Problems Solved
-* Portfolio has the developer's name, a recent photo or avatar, and links to sections about me, work, and contact me.
+* Portfolio has the developer's name, a recent photo or avatar, and links to sections about me (with contact me information), skills, portfolio, and Interests.
 * The links in the navigation bar scrolls to the corresponding section.
-* The developer's first application's image is larger in size than the others.
 * The images of the applications are linked to the deployed application.
 * Responsive layout that adapts to different devices.
-* Consolidating CSS Selectors and properties to follow  structure of the HTML elements.
-* Made HTML elements follow a logical structure independent of styling and positioning.
-* Added accessible alt attributes to images.
-* Made a sequential order for heading attributes.
 * Ensured all links functioning correctly.
 
 ### Tools & Technologies used
@@ -34,6 +29,7 @@ Advantages of Portfolio:
 3. HTML
 4. CSS
 5. Git
+6. JS
 
 
 ## Links
