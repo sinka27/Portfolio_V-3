@@ -38,12 +38,9 @@ Advantages of Portfolio:
 
 ## Links
 * Github source code: https://github.com/sinka27/Portfolio_V-3
-* Github deployed page: 
+* Github deployed page: https://sinka27.github.io/Portfolio_V-3/
 ## Screenshot
 ![](./assets/img/portfolio.png)
 
 ## Credits
-1. Parul Raj
-2. Joe Rehfuss
-3. Louis Coleman
-4. Brett Belka
+Parul Raj
